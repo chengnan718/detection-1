@@ -77,3 +77,16 @@ YOLOv8n: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n.
 
 YOLOv8n-cls: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n-cls.pt
 YOLOv8x-cls: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x-cls.pt
+
+YOLOv9t: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov9t.pt
+YOLOv9s: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov9s.pt
+YOLOv9m: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov9m.pt
+YOLOv9c: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov9c.pt
+YOLOv9e: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov9e.pt
+
+YOLOv10-N: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov10n.pt
+YOLOv10-S: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov10s.pt
+YOLOv10-M: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov10m.pt
+YOLOv10-B: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov10b.pt
+YOLOv10-L: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov10l.pt
+YOLOv10-X: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov10x.pt
