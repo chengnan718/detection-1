@@ -67,3 +67,13 @@ The original YOLOv8 model can be found in this repository: [YOLOv8 Repository](h
 * YOLOv7 model: [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
 * PINTO0309's model zoo: [https://github.com/PINTO0309/PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo)
 * PINTO0309's model conversion tool: [https://github.com/PINTO0309/openvino2tensorflow](https://github.com/PINTO0309/openvino2tensorflow)
+
+# Yolo Model Download
+YOLOv8x: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x.pt
+YOLOv8l: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8l.pt
+YOLOv8m: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8m.pt
+YOLOv8s: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8s.pt
+YOLOv8n: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n.pt
+
+YOLOv8n-cls: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8n-cls.pt
+YOLOv8x-cls: https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8x-cls.pt
